@@ -1,0 +1,23 @@
+[17-Oct-2018 16:58:16 Asia/Jakarta] PHP Fatal error:  Call to a member function result_array() on null in /home/ptbimaco/demo5.lokomedia.web.id/company/application/views/company-satu/template.php on line 237
+[17-Oct-2018 20:10:39 UTC] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /home/ptbimaco/demo5.lokomedia.web.id/company/application/controllers/Main.php on line 11
+[18-Oct-2018 03:13:32 Asia/Jakarta] PHP Fatal error:  Call to a member function result_array() on null in /home/ptbimaco/demo5.lokomedia.web.id/company/application/controllers/Main.php on line 15
+[18-Oct-2018 03:14:48 Asia/Jakarta] PHP Fatal error:  Call to a member function result_array() on null in /home/ptbimaco/demo5.lokomedia.web.id/company/application/controllers/Main.php on line 15
+[18-Oct-2018 03:14:51 Asia/Jakarta] PHP Fatal error:  Call to a member function result_array() on null in /home/ptbimaco/demo5.lokomedia.web.id/company/application/controllers/Main.php on line 15
+[18-Oct-2018 03:35:33 Asia/Jakarta] PHP Fatal error:  Call to a member function result_array() on null in /home/ptbimaco/demo5.lokomedia.web.id/company/application/views/company-satu/template.php on line 149
+[18-Oct-2018 11:21:23 Asia/Jakarta] PHP Fatal error:  Call to a member function result_array() on null in /home/ptbimaco/demo5.lokomedia.web.id/company/application/views/company-satu/template.php on line 232
+[18-Oct-2018 11:26:58 Asia/Jakarta] PHP Fatal error:  Call to a member function result_array() on null in /home/ptbimaco/demo5.lokomedia.web.id/company/application/views/company-satu/template.php on line 232
+[18-Oct-2018 11:36:26 Asia/Jakarta] PHP Fatal error:  Call to a member function result_array() on null in /home/ptbimaco/demo5.lokomedia.web.id/company/application/views/company-satu/template.php on line 232
+[18-Oct-2018 11:36:29 Asia/Jakarta] PHP Fatal error:  Call to a member function result_array() on null in /home/ptbimaco/demo5.lokomedia.web.id/company/application/views/company-satu/template.php on line 232
+[18-Oct-2018 15:47:41 UTC] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /home/ptbimaco/demo5.lokomedia.web.id/company/application/controllers/Administrator.php on line 654
+[18-Oct-2018 16:32:51 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ptbimaco/demo5.lokomedia.web.id/company/application/controllers/Administrator.php on line 1693
+[18-Oct-2018 17:25:38 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/ptbimaco/demo5.lokomedia.web.id/company/application/controllers/Administrator.php on line 2414
+[18-Oct-2018 17:25:47 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/ptbimaco/demo5.lokomedia.web.id/company/application/controllers/Administrator.php on line 2414
+[18-Oct-2018 17:25:48 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/ptbimaco/demo5.lokomedia.web.id/company/application/controllers/Administrator.php on line 2414
+[18-Oct-2018 17:25:52 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/ptbimaco/demo5.lokomedia.web.id/company/application/controllers/Administrator.php on line 2414
+[19-Oct-2018 13:23:36 Asia/Jakarta] PHP Fatal error:  Call to a member function result_array() on null in /home/ptbimaco/demo5.lokomedia.web.id/company/application/views/company-satu/template.php on line 232
+[22-Oct-2018 22:52:55 Asia/Jakarta] PHP Fatal error:  Call to a member function result_array() on null in /home/ptbimaco/demo5.lokomedia.web.id/company/application/views/company-satu/template.php on line 240
+[23-Oct-2018 12:46:58 Asia/Jakarta] PHP Fatal error:  Call to a member function result_array() on null in /home/ptbimaco/demo5.lokomedia.web.id/company/application/views/company-satu/template.php on line 240
+[02-Nov-2018 01:57:57 Asia/Jakarta] PHP Fatal error:  Call to a member function result_array() on null in /home/ptbimaco/demo5.lokomedia.web.id/company/application/views/company-satu/detailkategori.php on line 49
+[02-Nov-2018 02:15:41 Asia/Jakarta] PHP Fatal error:  Call to a member function result_array() on null in /home/ptbimaco/demo5.lokomedia.web.id/company/application/views/company-satu/detailkategori.php on line 54
+[02-Nov-2018 02:17:53 Asia/Jakarta] PHP Fatal error:  Call to a member function result_array() on null in /home/ptbimaco/demo5.lokomedia.web.id/company/application/views/company-satu/detailkategori.php on line 70
+[04-Dec-2018 00:19:00 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '$h' (T_VARIABLE), expecting ',' or ';' in /home/ptbimaco/demo5.lokomedia.web.id/company/application/views/company-satu/content.php on line 111
