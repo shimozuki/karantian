@@ -1,0 +1,19 @@
+Website Company Profile - Template Pertamini
+
+==========================================================
+
+Panel admin : localhost/3PERUSAHAANV1/administrator
+username: admin
+password: admin123
+
+- Support PHP 5.6 hingga 7.3
+- CodeIgniter 3.1.11
+- perbaikan bug dan modul - modul yang belum selesai
+
+
+=========================================================
+** kekurangan **
+- di tampilan depan (home), untuk menu Laporan tahunan, market insight, media, karir masih manual coding. Jadi jika ingin mengganti / menghapusnya, edit di file "application->views->company-satu->content.php"
+
+
+mudah2an kedepannya sudah bisa lebih baik lagi di update selanjutnya.
