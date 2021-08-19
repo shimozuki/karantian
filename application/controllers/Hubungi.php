@@ -24,8 +24,8 @@ class Hubungi extends CI_Controller {
             );
 			
         $cap = create_captcha($vals);
-        $data['image'] = $cap['image'];
-        $this->session->set_userdata('mycaptcha', $cap['word']);
+        // $data['image'] = $cap['image'];
+        // $this->session->set_userdata('mycaptcha', $cap['word']);
 		$this->template->load(template().'/template',template().'/hubungi',$data);
 	}
 

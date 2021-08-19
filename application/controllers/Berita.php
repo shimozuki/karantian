@@ -65,8 +65,8 @@ class Berita extends CI_Controller {
                 'expiration' => 7200
             );
 			$cap = create_captcha($vals);
-            $data['image'] = $cap['image'];
-            $this->session->set_userdata('mycaptcha', $cap['word']);
+            // $data['image'] = $cap['image'];
+            // $this->session->set_userdata('mycaptcha', $cap['word']);
 			$this->template->load(template().'/template',template().'/detailberita',$data);
 		}
 	}
